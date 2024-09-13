@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Javier
 
-I am an electronic engineer with a Ph.D. I work on HPC with FPGA acceleration. Also, I work as an embedded software developer. I mainly develop in C++/C, Python, and Bash for scripting.
+I am an electronic engineer with a Ph.D. I work on HPC with FPGA acceleration. Also, I work as an embedded systems engineer. I mainly develop in C++/C, Python, Bash for scripting, and SystemVerilog for hardware description.
 
 <p>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
